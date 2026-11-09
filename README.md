@@ -4,6 +4,10 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Course](https://img.shields.io/badge/Course-Advanced%20Statistics%20for%20Physics%20Analysis-purple.svg)](#)
 
+<p align="center">
+  <img src="assets/cover.jpg" alt="Cardiovascular Disease Prediction via Bayesian Networks" width="100%"/>
+</p>
+
 > **Academic Project** developed for the *Advanced Statistics for Physics Analysis* course.  
 > **Authors**: Chiara Maccani, Francesco Zambelli, Pietro Miglioranza.
 
@@ -154,6 +158,7 @@ BiocManager::install("Rgraphviz")
 │   ├── Abstract.md         # Markdown version of original academic abstract
 │   └── Abstract.docx       # Original Word abstract
 └── assets/                 # Exported DAG diagrams, ROC curves, and plots
+    ├── cover.jpg
     ├── dag_expert_network.png
     ├── dag_learned_k2_discrete.png
     ├── dag_learned_k2_continuous.png
